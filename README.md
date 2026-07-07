@@ -95,6 +95,9 @@ healthcare-lakehouse-databricks/
 │       ├── revenue_by_specialty.ipynb
 │       └── revenue_by_state.ipynb
 │
+├── setup/
+│   └── lakehouse_setup.ipynb
+│
 ├── README.md
 │
 └── LICENSE
@@ -132,6 +135,26 @@ The project uses healthcare datasets stored as CSV files.
 ### Financial Data
 
 - Billing
+
+---
+
+# ⚙️ Setup
+
+Before running the pipeline, the Databricks Lakehouse environment must be initialized.
+
+### Script
+
+`setup/lakehouse_setup.ipynb`
+
+### What It Does
+
+- Selects the `health` catalog
+- Creates the `bronze`, `silver`, and `gold` schemas
+- Creates the raw data Volume for CSV file uploads
+
+### Run Order
+
+> Run `lakehouse_setup.ipynb` **once** before executing any Bronze, Silver, or Gold notebooks.
 
 ---
 

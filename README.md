@@ -264,10 +264,3 @@ Potential enhancements include:
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
-
-# 👨‍💻 Author
-
-Healthcare Data Engineering Pipeline
-
-Built using Databricks Lakehouse, PySpark, Spark SQL, and Delta Lake.

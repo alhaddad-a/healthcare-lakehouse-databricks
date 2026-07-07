@@ -45,14 +45,31 @@ Power BI
 # 📂 Project Structure
 
 ```
-healthcare-data-engineering-pipeline/
+healthcare-lakehouse-databricks/
 │
-├── data/
+├── datasets/
+│   ├── ehr/
+│   │   ├── admissions_2021.csv
+│   │   ├── admissions_2022.csv
+│   │   ├── admissions_2023.csv
+│   │   ├── admissions_2024.csv
+│   │   ├── admissions_2025.csv
+│   │   ├── doctors.csv
+│   │   └── patients.csv
+│   ├── billing/
+│   │   ├── billing_2021.csv
+│   │   ├── billing_2022.csv
+│   │   ├── billing_2023.csv
+│   │   ├── billing_2024.csv
+│   │   └── billing_2025.csv
+│   └── master_data/
+│       ├── hospitals.csv
+│       └── procedures.csv
 │
 ├── docs/
 │   ├── Architecture.png
 │   ├── Data_Flow.png
-│   ├── Integration_Model.png
+│   ├── Integration_model.png
 │   ├── data_catalog.md
 │   └── naming_conventions.md
 │
@@ -62,12 +79,25 @@ healthcare-data-engineering-pipeline/
 │   │
 │   ├── silver/
 │   │   ├── ehr/
+│   │   │   ├── admissions.ipynb
+│   │   │   ├── doctors.ipynb
+│   │   │   └── patients.ipynb
 │   │   ├── billing/
+│   │   │   └── billing.ipynb
 │   │   └── master_data/
+│   │       ├── hospitals.ipynb
+│   │       └── procedures.ipynb
 │   │
 │   └── gold/
+│       ├── admissions_by_year.ipynb
+│       ├── procedure_performance.ipynb
+│       ├── revenue_by_hospital.ipynb
+│       ├── revenue_by_specialty.ipynb
+│       └── revenue_by_state.ipynb
 │
-└── README.md
+├── README.md
+│
+└── LICENSE
 ```
 
 ---
@@ -168,7 +198,7 @@ Provides business-ready datasets optimized for analytics and reporting.
 
 The project integrates healthcare entities through business keys.
 
-![Integration Model](docs/Integration_Model.png)
+![Integration Model](docs/Integration_model.png)
 
 Relationships include:
 
@@ -210,9 +240,9 @@ Additional documentation is available in the `docs` folder.
 |----------|-------------|
 | data_catalog.md | Gold layer data dictionary |
 | naming_conventions.md | Naming standards used throughout the project |
-| Architecture.png | Medallion Architecture |
-| Integration_Model.png | Table relationships |
-| Data_Flow.png | Pipeline flow |
+| Architecture.png | Medallion Architecture diagram |
+| Integration_model.png | Table relationships diagram |
+| Data_Flow.png | Pipeline data flow diagram |
 
 ---
 
@@ -227,6 +257,12 @@ Potential enhancements include:
 - Power BI dashboard
 - Data quality monitoring
 - Unit testing for data pipelines
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 

@@ -1,0 +1,1001 @@
+procedure_id,procedure_name,department,procedure_cost
+1,MRI Scan,Radiology,25378
+2,CT Scan,Radiology,40794
+3,X-Ray,Radiology,3397
+4,Ultrasound,Radiology,4170
+5,Echocardiogram,Cardiology,669
+6,Coronary Angiography,Cardiology,48297
+7,ECG,Cardiology,36426
+8,Appendectomy,General Surgery,30079
+9,Cholecystectomy,General Surgery,3517
+10,Hernia Repair,General Surgery,12313
+11,Knee Replacement,Orthopedics,38121
+12,Hip Replacement,Orthopedics,4256
+13,Arthroscopy,Orthopedics,7924
+14,Colonoscopy,Gastroenterology,32171
+15,Endoscopy,Gastroenterology,16585
+16,Chemotherapy Session,Oncology,32577
+17,Radiation Therapy,Oncology,16381
+18,Dialysis Session,Nephrology,6553
+19,Blood Transfusion,Hematology,21640
+20,Cataract Surgery,Ophthalmology,15658
+21,MRI Scan,Radiology,26716
+22,CT Scan,Radiology,5019
+23,X-Ray,Radiology,44635
+24,Ultrasound,Radiology,43392
+25,Echocardiogram,Cardiology,28457
+26,Coronary Angiography,Cardiology,12172
+27,ECG,Cardiology,27470
+28,Appendectomy,General Surgery,22803
+29,Cholecystectomy,General Surgery,6314
+30,Hernia Repair,General Surgery,32131
+31,Knee Replacement,Orthopedics,41441
+32,Hip Replacement,Orthopedics,9741
+33,Arthroscopy,Orthopedics,30602
+34,Colonoscopy,Gastroenterology,34594
+35,Endoscopy,Gastroenterology,7409
+36,Chemotherapy Session,Oncology,26373
+37,Radiation Therapy,Oncology,6566
+38,Dialysis Session,Nephrology,34396
+39,Blood Transfusion,Hematology,31422
+40,Cataract Surgery,Ophthalmology,36830
+41,MRI Scan,Radiology,39294
+42,CT Scan,Radiology,12049
+43,X-Ray,Radiology,21010
+44,Ultrasound,Radiology,526
+45,Echocardiogram,Cardiology,29314
+46,Coronary Angiography,Cardiology,8386
+47,ECG,Cardiology,27616
+48,Appendectomy,General Surgery,28734
+49,Cholecystectomy,General Surgery,38309
+50,Hernia Repair,General Surgery,26999
+51,Knee Replacement,Orthopedics,18483
+52,Hip Replacement,Orthopedics,41568
+53,Arthroscopy,Orthopedics,3252
+54,Colonoscopy,Gastroenterology,6910
+55,Endoscopy,Gastroenterology,35523
+56,Chemotherapy Session,Oncology,3886
+57,Radiation Therapy,Oncology,24109
+58,Dialysis Session,Nephrology,30347
+59,Blood Transfusion,Hematology,29997
+60,Cataract Surgery,Ophthalmology,30897
+61,MRI Scan,Radiology,15575
+62,CT Scan,Radiology,39571
+63,X-Ray,Radiology,19039
+64,Ultrasound,Radiology,15391
+65,Echocardiogram,Cardiology,24429
+66,Coronary Angiography,Cardiology,1256
+67,ECG,Cardiology,304
+68,Appendectomy,General Surgery,45531
+69,Cholecystectomy,General Surgery,24691
+70,Hernia Repair,General Surgery,17316
+71,Knee Replacement,Orthopedics,27914
+72,Hip Replacement,Orthopedics,26106
+73,Arthroscopy,Orthopedics,21778
+74,Colonoscopy,Gastroenterology,8833
+75,Endoscopy,Gastroenterology,19031
+76,Chemotherapy Session,Oncology,10697
+77,Radiation Therapy,Oncology,6282
+78,Dialysis Session,Nephrology,49760
+79,Blood Transfusion,Hematology,21772
+80,Cataract Surgery,Ophthalmology,6527
+81,MRI Scan,Radiology,29911
+82,CT Scan,Radiology,41465
+83,X-Ray,Radiology,35334
+84,Ultrasound,Radiology,34791
+85,Echocardiogram,Cardiology,45945
+86,Coronary Angiography,Cardiology,39122
+87,ECG,Cardiology,14496
+88,Appendectomy,General Surgery,7840
+89,Cholecystectomy,General Surgery,30850
+90,Hernia Repair,General Surgery,28817
+91,Knee Replacement,Orthopedics,39994
+92,Hip Replacement,Orthopedics,917
+93,Arthroscopy,Orthopedics,45968
+94,Colonoscopy,Gastroenterology,32128
+95,Endoscopy,Gastroenterology,42180
+96,Chemotherapy Session,Oncology,10640
+97,Radiation Therapy,Oncology,22507
+98,Dialysis Session,Nephrology,1487
+99,Blood Transfusion,Hematology,38666
+100,Cataract Surgery,Ophthalmology,49811
+101,MRI Scan,Radiology,3032
+102,CT Scan,Radiology,3658
+103,X-Ray,Radiology,6654
+104,Ultrasound,Radiology,14594
+105,Echocardiogram,Cardiology,18637
+106,Coronary Angiography,Cardiology,19166
+107,ECG,Cardiology,12207
+108,Appendectomy,General Surgery,23221
+109,Cholecystectomy,General Surgery,28068
+110,Hernia Repair,General Surgery,18260
+111,Knee Replacement,Orthopedics,19647
+112,Hip Replacement,Orthopedics,38148
+113,Arthroscopy,Orthopedics,31529
+114,Colonoscopy,Gastroenterology,12835
+115,Endoscopy,Gastroenterology,33756
+116,Chemotherapy Session,Oncology,8738
+117,Radiation Therapy,Oncology,38007
+118,Dialysis Session,Nephrology,27415
+119,Blood Transfusion,Hematology,21386
+120,Cataract Surgery,Ophthalmology,23023
+121,MRI Scan,Radiology,6436
+122,CT Scan,Radiology,15505
+123,X-Ray,Radiology,6364
+124,Ultrasound,Radiology,10983
+125,Echocardiogram,Cardiology,12968
+126,Coronary Angiography,Cardiology,33685
+127,ECG,Cardiology,35535
+128,Appendectomy,General Surgery,47456
+129,Cholecystectomy,General Surgery,7338
+130,Hernia Repair,General Surgery,4081
+131,Knee Replacement,Orthopedics,21577
+132,Hip Replacement,Orthopedics,10479
+133,Arthroscopy,Orthopedics,14717
+134,Colonoscopy,Gastroenterology,44347
+135,Endoscopy,Gastroenterology,1213
+136,Chemotherapy Session,Oncology,11158
+137,Radiation Therapy,Oncology,11032
+138,Dialysis Session,Nephrology,17732
+139,Blood Transfusion,Hematology,39859
+140,Cataract Surgery,Ophthalmology,29210
+141,MRI Scan,Radiology,22057
+142,CT Scan,Radiology,308
+143,X-Ray,Radiology,43737
+144,Ultrasound,Radiology,1607
+145,Echocardiogram,Cardiology,5959
+146,Coronary Angiography,Cardiology,9904
+147,ECG,Cardiology,20786
+148,Appendectomy,General Surgery,41102
+149,Cholecystectomy,General Surgery,41781
+150,Hernia Repair,General Surgery,2263
+151,Knee Replacement,Orthopedics,29180
+152,Hip Replacement,Orthopedics,33752
+153,Arthroscopy,Orthopedics,28944
+154,Colonoscopy,Gastroenterology,20023
+155,Endoscopy,Gastroenterology,19799
+156,Chemotherapy Session,Oncology,9382
+157,Radiation Therapy,Oncology,26434
+158,Dialysis Session,Nephrology,11419
+159,Blood Transfusion,Hematology,49950
+160,Cataract Surgery,Ophthalmology,17430
+161,MRI Scan,Radiology,28857
+162,CT Scan,Radiology,29386
+163,X-Ray,Radiology,7479
+164,Ultrasound,Radiology,39318
+165,Echocardiogram,Cardiology,12491
+166,Coronary Angiography,Cardiology,27149
+167,ECG,Cardiology,24210
+168,Appendectomy,General Surgery,16574
+169,Cholecystectomy,General Surgery,2140
+170,Hernia Repair,General Surgery,15814
+171,Knee Replacement,Orthopedics,25276
+172,Hip Replacement,Orthopedics,38534
+173,Arthroscopy,Orthopedics,18272
+174,Colonoscopy,Gastroenterology,1782
+175,Endoscopy,Gastroenterology,49170
+176,Chemotherapy Session,Oncology,9865
+177,Radiation Therapy,Oncology,25012
+178,Dialysis Session,Nephrology,29342
+179,Blood Transfusion,Hematology,2013
+180,Cataract Surgery,Ophthalmology,31158
+181,MRI Scan,Radiology,45957
+182,CT Scan,Radiology,33630
+183,X-Ray,Radiology,38603
+184,Ultrasound,Radiology,8385
+185,Echocardiogram,Cardiology,21639
+186,Coronary Angiography,Cardiology,49866
+187,ECG,Cardiology,27645
+188,Appendectomy,General Surgery,45327
+189,Cholecystectomy,General Surgery,34635
+190,Hernia Repair,General Surgery,32893
+191,Knee Replacement,Orthopedics,27444
+192,Hip Replacement,Orthopedics,14019
+193,Arthroscopy,Orthopedics,34571
+194,Colonoscopy,Gastroenterology,39649
+195,Endoscopy,Gastroenterology,22796
+196,Chemotherapy Session,Oncology,26482
+197,Radiation Therapy,Oncology,31902
+198,Dialysis Session,Nephrology,37951
+199,Blood Transfusion,Hematology,25296
+200,Cataract Surgery,Ophthalmology,18042
+201,MRI Scan,Radiology,183
+202,CT Scan,Radiology,27218
+203,X-Ray,Radiology,34644
+204,Ultrasound,Radiology,3968
+205,Echocardiogram,Cardiology,41040
+206,Coronary Angiography,Cardiology,27313
+207,ECG,Cardiology,32473
+208,Appendectomy,General Surgery,2053
+209,Cholecystectomy,General Surgery,30551
+210,Hernia Repair,General Surgery,12354
+211,Knee Replacement,Orthopedics,44208
+212,Hip Replacement,Orthopedics,42697
+213,Arthroscopy,Orthopedics,22439
+214,Colonoscopy,Gastroenterology,40808
+215,Endoscopy,Gastroenterology,24270
+216,Chemotherapy Session,Oncology,20876
+217,Radiation Therapy,Oncology,34192
+218,Dialysis Session,Nephrology,20658
+219,Blood Transfusion,Hematology,15629
+220,Cataract Surgery,Ophthalmology,8493
+221,MRI Scan,Radiology,19493
+222,CT Scan,Radiology,41503
+223,X-Ray,Radiology,4050
+224,Ultrasound,Radiology,9892
+225,Echocardiogram,Cardiology,3965
+226,Coronary Angiography,Cardiology,3651
+227,ECG,Cardiology,39383
+228,Appendectomy,General Surgery,32646
+229,Cholecystectomy,General Surgery,43521
+230,Hernia Repair,General Surgery,45286
+231,Knee Replacement,Orthopedics,34701
+232,Hip Replacement,Orthopedics,44508
+233,Arthroscopy,Orthopedics,36482
+234,Colonoscopy,Gastroenterology,46039
+235,Endoscopy,Gastroenterology,36667
+236,Chemotherapy Session,Oncology,8378
+237,Radiation Therapy,Oncology,3308
+238,Dialysis Session,Nephrology,47391
+239,Blood Transfusion,Hematology,32921
+240,Cataract Surgery,Ophthalmology,4311
+241,MRI Scan,Radiology,29449
+242,CT Scan,Radiology,39234
+243,X-Ray,Radiology,34239
+244,Ultrasound,Radiology,32976
+245,Echocardiogram,Cardiology,46493
+246,Coronary Angiography,Cardiology,18350
+247,ECG,Cardiology,28257
+248,Appendectomy,General Surgery,37507
+249,Cholecystectomy,General Surgery,18829
+250,Hernia Repair,General Surgery,15796
+251,Knee Replacement,Orthopedics,25684
+252,Hip Replacement,Orthopedics,101
+253,Arthroscopy,Orthopedics,9939
+254,Colonoscopy,Gastroenterology,14462
+255,Endoscopy,Gastroenterology,10749
+256,Chemotherapy Session,Oncology,41756
+257,Radiation Therapy,Oncology,20840
+258,Dialysis Session,Nephrology,15302
+259,Blood Transfusion,Hematology,47653
+260,Cataract Surgery,Ophthalmology,16619
+261,MRI Scan,Radiology,21333
+262,CT Scan,Radiology,22404
+263,X-Ray,Radiology,44035
+264,Ultrasound,Radiology,24791
+265,Echocardiogram,Cardiology,32789
+266,Coronary Angiography,Cardiology,5029
+267,ECG,Cardiology,1712
+268,Appendectomy,General Surgery,42385
+269,Cholecystectomy,General Surgery,35997
+270,Hernia Repair,General Surgery,9349
+271,Knee Replacement,Orthopedics,3960
+272,Hip Replacement,Orthopedics,15730
+273,Arthroscopy,Orthopedics,16780
+274,Colonoscopy,Gastroenterology,20497
+275,Endoscopy,Gastroenterology,7878
+276,Chemotherapy Session,Oncology,8109
+277,Radiation Therapy,Oncology,14352
+278,Dialysis Session,Nephrology,40091
+279,Blood Transfusion,Hematology,20030
+280,Cataract Surgery,Ophthalmology,25641
+281,MRI Scan,Radiology,19882
+282,CT Scan,Radiology,31205
+283,X-Ray,Radiology,16178
+284,Ultrasound,Radiology,18910
+285,Echocardiogram,Cardiology,48276
+286,Coronary Angiography,Cardiology,40385
+287,ECG,Cardiology,41377
+288,Appendectomy,General Surgery,22659
+289,Cholecystectomy,General Surgery,11231
+290,Hernia Repair,General Surgery,48622
+291,Knee Replacement,Orthopedics,31383
+292,Hip Replacement,Orthopedics,44876
+293,Arthroscopy,Orthopedics,49045
+294,Colonoscopy,Gastroenterology,27114
+295,Endoscopy,Gastroenterology,8776
+296,Chemotherapy Session,Oncology,40643
+297,Radiation Therapy,Oncology,806
+298,Dialysis Session,Nephrology,2275
+299,Blood Transfusion,Hematology,26289
+300,Cataract Surgery,Ophthalmology,40702
+301,MRI Scan,Radiology,23071
+302,CT Scan,Radiology,3796
+303,X-Ray,Radiology,30700
+304,Ultrasound,Radiology,16617
+305,Echocardiogram,Cardiology,996
+306,Coronary Angiography,Cardiology,19351
+307,ECG,Cardiology,7861
+308,Appendectomy,General Surgery,2128
+309,Cholecystectomy,General Surgery,14667
+310,Hernia Repair,General Surgery,20597
+311,Knee Replacement,Orthopedics,40788
+312,Hip Replacement,Orthopedics,23298
+313,Arthroscopy,Orthopedics,43438
+314,Colonoscopy,Gastroenterology,38218
+315,Endoscopy,Gastroenterology,41088
+316,Chemotherapy Session,Oncology,10903
+317,Radiation Therapy,Oncology,25913
+318,Dialysis Session,Nephrology,8195
+319,Blood Transfusion,Hematology,44774
+320,Cataract Surgery,Ophthalmology,38844
+321,MRI Scan,Radiology,49284
+322,CT Scan,Radiology,3520
+323,X-Ray,Radiology,9492
+324,Ultrasound,Radiology,31024
+325,Echocardiogram,Cardiology,20832
+326,Coronary Angiography,Cardiology,22580
+327,ECG,Cardiology,36742
+328,Appendectomy,General Surgery,29820
+329,Cholecystectomy,General Surgery,7509
+330,Hernia Repair,General Surgery,42563
+331,Knee Replacement,Orthopedics,33159
+332,Hip Replacement,Orthopedics,37676
+333,Arthroscopy,Orthopedics,40940
+334,Colonoscopy,Gastroenterology,12302
+335,Endoscopy,Gastroenterology,17045
+336,Chemotherapy Session,Oncology,38103
+337,Radiation Therapy,Oncology,42138
+338,Dialysis Session,Nephrology,12259
+339,Blood Transfusion,Hematology,11473
+340,Cataract Surgery,Ophthalmology,436
+341,MRI Scan,Radiology,35558
+342,CT Scan,Radiology,14622
+343,X-Ray,Radiology,11224
+344,Ultrasound,Radiology,3026
+345,Echocardiogram,Cardiology,24021
+346,Coronary Angiography,Cardiology,45770
+347,ECG,Cardiology,37043
+348,Appendectomy,General Surgery,4511
+349,Cholecystectomy,General Surgery,3410
+350,Hernia Repair,General Surgery,445
+351,Knee Replacement,Orthopedics,10032
+352,Hip Replacement,Orthopedics,34464
+353,Arthroscopy,Orthopedics,6968
+354,Colonoscopy,Gastroenterology,34810
+355,Endoscopy,Gastroenterology,5383
+356,Chemotherapy Session,Oncology,42385
+357,Radiation Therapy,Oncology,5605
+358,Dialysis Session,Nephrology,42653
+359,Blood Transfusion,Hematology,19675
+360,Cataract Surgery,Ophthalmology,36378
+361,MRI Scan,Radiology,32427
+362,CT Scan,Radiology,16019
+363,X-Ray,Radiology,48048
+364,Ultrasound,Radiology,31460
+365,Echocardiogram,Cardiology,1726
+366,Coronary Angiography,Cardiology,33807
+367,ECG,Cardiology,10630
+368,Appendectomy,General Surgery,27727
+369,Cholecystectomy,General Surgery,8194
+370,Hernia Repair,General Surgery,16977
+371,Knee Replacement,Orthopedics,28431
+372,Hip Replacement,Orthopedics,5203
+373,Arthroscopy,Orthopedics,32238
+374,Colonoscopy,Gastroenterology,4227
+375,Endoscopy,Gastroenterology,48840
+376,Chemotherapy Session,Oncology,47569
+377,Radiation Therapy,Oncology,10394
+378,Dialysis Session,Nephrology,29742
+379,Blood Transfusion,Hematology,29395
+380,Cataract Surgery,Ophthalmology,20568
+381,MRI Scan,Radiology,19232
+382,CT Scan,Radiology,17407
+383,X-Ray,Radiology,22711
+384,Ultrasound,Radiology,11552
+385,Echocardiogram,Cardiology,20047
+386,Coronary Angiography,Cardiology,20096
+387,ECG,Cardiology,524
+388,Appendectomy,General Surgery,42230
+389,Cholecystectomy,General Surgery,2542
+390,Hernia Repair,General Surgery,34036
+391,Knee Replacement,Orthopedics,9776
+392,Hip Replacement,Orthopedics,2562
+393,Arthroscopy,Orthopedics,41875
+394,Colonoscopy,Gastroenterology,35785
+395,Endoscopy,Gastroenterology,16049
+396,Chemotherapy Session,Oncology,28821
+397,Radiation Therapy,Oncology,48095
+398,Dialysis Session,Nephrology,26745
+399,Blood Transfusion,Hematology,32260
+400,Cataract Surgery,Ophthalmology,16980
+401,MRI Scan,Radiology,6774
+402,CT Scan,Radiology,49847
+403,X-Ray,Radiology,47683
+404,Ultrasound,Radiology,14726
+405,Echocardiogram,Cardiology,16915
+406,Coronary Angiography,Cardiology,45836
+407,ECG,Cardiology,37365
+408,Appendectomy,General Surgery,3982
+409,Cholecystectomy,General Surgery,25007
+410,Hernia Repair,General Surgery,8988
+411,Knee Replacement,Orthopedics,17182
+412,Hip Replacement,Orthopedics,27080
+413,Arthroscopy,Orthopedics,45135
+414,Colonoscopy,Gastroenterology,7958
+415,Endoscopy,Gastroenterology,31774
+416,Chemotherapy Session,Oncology,44274
+417,Radiation Therapy,Oncology,29878
+418,Dialysis Session,Nephrology,28266
+419,Blood Transfusion,Hematology,37811
+420,Cataract Surgery,Ophthalmology,32673
+421,MRI Scan,Radiology,1873
+422,CT Scan,Radiology,32317
+423,X-Ray,Radiology,13279
+424,Ultrasound,Radiology,29785
+425,Echocardiogram,Cardiology,8386
+426,Coronary Angiography,Cardiology,29495
+427,ECG,Cardiology,37164
+428,Appendectomy,General Surgery,47239
+429,Cholecystectomy,General Surgery,26190
+430,Hernia Repair,General Surgery,28524
+431,Knee Replacement,Orthopedics,43148
+432,Hip Replacement,Orthopedics,26171
+433,Arthroscopy,Orthopedics,25130
+434,Colonoscopy,Gastroenterology,5611
+435,Endoscopy,Gastroenterology,38980
+436,Chemotherapy Session,Oncology,26015
+437,Radiation Therapy,Oncology,12364
+438,Dialysis Session,Nephrology,28839
+439,Blood Transfusion,Hematology,20737
+440,Cataract Surgery,Ophthalmology,17906
+441,MRI Scan,Radiology,24828
+442,CT Scan,Radiology,29055
+443,X-Ray,Radiology,39836
+444,Ultrasound,Radiology,39849
+445,Echocardiogram,Cardiology,17880
+446,Coronary Angiography,Cardiology,37217
+447,ECG,Cardiology,11069
+448,Appendectomy,General Surgery,43893
+449,Cholecystectomy,General Surgery,11584
+450,Hernia Repair,General Surgery,31831
+451,Knee Replacement,Orthopedics,29644
+452,Hip Replacement,Orthopedics,4417
+453,Arthroscopy,Orthopedics,41530
+454,Colonoscopy,Gastroenterology,30033
+455,Endoscopy,Gastroenterology,48035
+456,Chemotherapy Session,Oncology,9335
+457,Radiation Therapy,Oncology,12376
+458,Dialysis Session,Nephrology,22637
+459,Blood Transfusion,Hematology,44690
+460,Cataract Surgery,Ophthalmology,44908
+461,MRI Scan,Radiology,40525
+462,CT Scan,Radiology,4212
+463,X-Ray,Radiology,46964
+464,Ultrasound,Radiology,38248
+465,Echocardiogram,Cardiology,15109
+466,Coronary Angiography,Cardiology,17582
+467,ECG,Cardiology,46574
+468,Appendectomy,General Surgery,37518
+469,Cholecystectomy,General Surgery,20769
+470,Hernia Repair,General Surgery,9394
+471,Knee Replacement,Orthopedics,19509
+472,Hip Replacement,Orthopedics,5067
+473,Arthroscopy,Orthopedics,28951
+474,Colonoscopy,Gastroenterology,39261
+475,Endoscopy,Gastroenterology,16592
+476,Chemotherapy Session,Oncology,31851
+477,Radiation Therapy,Oncology,43108
+478,Dialysis Session,Nephrology,47088
+479,Blood Transfusion,Hematology,6308
+480,Cataract Surgery,Ophthalmology,18799
+481,MRI Scan,Radiology,3709
+482,CT Scan,Radiology,23107
+483,X-Ray,Radiology,34365
+484,Ultrasound,Radiology,33250
+485,Echocardiogram,Cardiology,24008
+486,Coronary Angiography,Cardiology,8043
+487,ECG,Cardiology,47677
+488,Appendectomy,General Surgery,303
+489,Cholecystectomy,General Surgery,44079
+490,Hernia Repair,General Surgery,40363
+491,Knee Replacement,Orthopedics,48664
+492,Hip Replacement,Orthopedics,23984
+493,Arthroscopy,Orthopedics,5705
+494,Colonoscopy,Gastroenterology,47584
+495,Endoscopy,Gastroenterology,1851
+496,Chemotherapy Session,Oncology,5479
+497,Radiation Therapy,Oncology,22292
+498,Dialysis Session,Nephrology,9489
+499,Blood Transfusion,Hematology,6396
+500,Cataract Surgery,Ophthalmology,2765
+501,MRI Scan,Radiology,34756
+502,CT Scan,Radiology,47119
+503,X-Ray,Radiology,42327
+504,Ultrasound,Radiology,41108
+505,Echocardiogram,Cardiology,24056
+506,Coronary Angiography,Cardiology,48751
+507,ECG,Cardiology,5748
+508,Appendectomy,General Surgery,46967
+509,Cholecystectomy,General Surgery,48718
+510,Hernia Repair,General Surgery,10639
+511,Knee Replacement,Orthopedics,6833
+512,Hip Replacement,Orthopedics,44265
+513,Arthroscopy,Orthopedics,34829
+514,Colonoscopy,Gastroenterology,37529
+515,Endoscopy,Gastroenterology,29736
+516,Chemotherapy Session,Oncology,15184
+517,Radiation Therapy,Oncology,16335
+518,Dialysis Session,Nephrology,24808
+519,Blood Transfusion,Hematology,46621
+520,Cataract Surgery,Ophthalmology,27254
+521,MRI Scan,Radiology,16675
+522,CT Scan,Radiology,13498
+523,X-Ray,Radiology,9768
+524,Ultrasound,Radiology,15292
+525,Echocardiogram,Cardiology,44892
+526,Coronary Angiography,Cardiology,39600
+527,ECG,Cardiology,39683
+528,Appendectomy,General Surgery,17569
+529,Cholecystectomy,General Surgery,35349
+530,Hernia Repair,General Surgery,19330
+531,Knee Replacement,Orthopedics,31468
+532,Hip Replacement,Orthopedics,47061
+533,Arthroscopy,Orthopedics,1991
+534,Colonoscopy,Gastroenterology,42943
+535,Endoscopy,Gastroenterology,3501
+536,Chemotherapy Session,Oncology,7971
+537,Radiation Therapy,Oncology,24919
+538,Dialysis Session,Nephrology,6776
+539,Blood Transfusion,Hematology,46127
+540,Cataract Surgery,Ophthalmology,13453
+541,MRI Scan,Radiology,3416
+542,CT Scan,Radiology,34365
+543,X-Ray,Radiology,22435
+544,Ultrasound,Radiology,17450
+545,Echocardiogram,Cardiology,34555
+546,Coronary Angiography,Cardiology,22642
+547,ECG,Cardiology,26392
+548,Appendectomy,General Surgery,517
+549,Cholecystectomy,General Surgery,1701
+550,Hernia Repair,General Surgery,22079
+551,Knee Replacement,Orthopedics,1679
+552,Hip Replacement,Orthopedics,13899
+553,Arthroscopy,Orthopedics,30145
+554,Colonoscopy,Gastroenterology,17538
+555,Endoscopy,Gastroenterology,23785
+556,Chemotherapy Session,Oncology,2828
+557,Radiation Therapy,Oncology,24735
+558,Dialysis Session,Nephrology,24833
+559,Blood Transfusion,Hematology,11742
+560,Cataract Surgery,Ophthalmology,30874
+561,MRI Scan,Radiology,17849
+562,CT Scan,Radiology,20360
+563,X-Ray,Radiology,25291
+564,Ultrasound,Radiology,4350
+565,Echocardiogram,Cardiology,44627
+566,Coronary Angiography,Cardiology,19681
+567,ECG,Cardiology,14019
+568,Appendectomy,General Surgery,14862
+569,Cholecystectomy,General Surgery,14264
+570,Hernia Repair,General Surgery,19790
+571,Knee Replacement,Orthopedics,30251
+572,Hip Replacement,Orthopedics,38456
+573,Arthroscopy,Orthopedics,27308
+574,Colonoscopy,Gastroenterology,47889
+575,Endoscopy,Gastroenterology,17356
+576,Chemotherapy Session,Oncology,30578
+577,Radiation Therapy,Oncology,10085
+578,Dialysis Session,Nephrology,19836
+579,Blood Transfusion,Hematology,33409
+580,Cataract Surgery,Ophthalmology,24779
+581,MRI Scan,Radiology,6862
+582,CT Scan,Radiology,43120
+583,X-Ray,Radiology,20393
+584,Ultrasound,Radiology,42586
+585,Echocardiogram,Cardiology,32807
+586,Coronary Angiography,Cardiology,42488
+587,ECG,Cardiology,38657
+588,Appendectomy,General Surgery,46543
+589,Cholecystectomy,General Surgery,24682
+590,Hernia Repair,General Surgery,44313
+591,Knee Replacement,Orthopedics,5639
+592,Hip Replacement,Orthopedics,19333
+593,Arthroscopy,Orthopedics,49927
+594,Colonoscopy,Gastroenterology,29148
+595,Endoscopy,Gastroenterology,44420
+596,Chemotherapy Session,Oncology,23045
+597,Radiation Therapy,Oncology,45616
+598,Dialysis Session,Nephrology,27209
+599,Blood Transfusion,Hematology,40996
+600,Cataract Surgery,Ophthalmology,27633
+601,MRI Scan,Radiology,11485
+602,CT Scan,Radiology,41732
+603,X-Ray,Radiology,18823
+604,Ultrasound,Radiology,41403
+605,Echocardiogram,Cardiology,13979
+606,Coronary Angiography,Cardiology,21717
+607,ECG,Cardiology,9140
+608,Appendectomy,General Surgery,25310
+609,Cholecystectomy,General Surgery,21434
+610,Hernia Repair,General Surgery,27402
+611,Knee Replacement,Orthopedics,27573
+612,Hip Replacement,Orthopedics,34450
+613,Arthroscopy,Orthopedics,31265
+614,Colonoscopy,Gastroenterology,25961
+615,Endoscopy,Gastroenterology,41734
+616,Chemotherapy Session,Oncology,39125
+617,Radiation Therapy,Oncology,42817
+618,Dialysis Session,Nephrology,17162
+619,Blood Transfusion,Hematology,19831
+620,Cataract Surgery,Ophthalmology,30864
+621,MRI Scan,Radiology,843
+622,CT Scan,Radiology,47388
+623,X-Ray,Radiology,9953
+624,Ultrasound,Radiology,18807
+625,Echocardiogram,Cardiology,16500
+626,Coronary Angiography,Cardiology,6899
+627,ECG,Cardiology,42401
+628,Appendectomy,General Surgery,37271
+629,Cholecystectomy,General Surgery,311
+630,Hernia Repair,General Surgery,37325
+631,Knee Replacement,Orthopedics,20381
+632,Hip Replacement,Orthopedics,25742
+633,Arthroscopy,Orthopedics,8970
+634,Colonoscopy,Gastroenterology,9868
+635,Endoscopy,Gastroenterology,26113
+636,Chemotherapy Session,Oncology,17518
+637,Radiation Therapy,Oncology,38896
+638,Dialysis Session,Nephrology,41360
+639,Blood Transfusion,Hematology,18861
+640,Cataract Surgery,Ophthalmology,37062
+641,MRI Scan,Radiology,29685
+642,CT Scan,Radiology,16605
+643,X-Ray,Radiology,5837
+644,Ultrasound,Radiology,11143
+645,Echocardiogram,Cardiology,49626
+646,Coronary Angiography,Cardiology,9975
+647,ECG,Cardiology,40238
+648,Appendectomy,General Surgery,18942
+649,Cholecystectomy,General Surgery,46978
+650,Hernia Repair,General Surgery,13122
+651,Knee Replacement,Orthopedics,12963
+652,Hip Replacement,Orthopedics,24664
+653,Arthroscopy,Orthopedics,16632
+654,Colonoscopy,Gastroenterology,7556
+655,Endoscopy,Gastroenterology,29341
+656,Chemotherapy Session,Oncology,24055
+657,Radiation Therapy,Oncology,682
+658,Dialysis Session,Nephrology,28415
+659,Blood Transfusion,Hematology,33188
+660,Cataract Surgery,Ophthalmology,1399
+661,MRI Scan,Radiology,25822
+662,CT Scan,Radiology,19997
+663,X-Ray,Radiology,5655
+664,Ultrasound,Radiology,41642
+665,Echocardiogram,Cardiology,34202
+666,Coronary Angiography,Cardiology,14631
+667,ECG,Cardiology,20802
+668,Appendectomy,General Surgery,44646
+669,Cholecystectomy,General Surgery,44610
+670,Hernia Repair,General Surgery,3545
+671,Knee Replacement,Orthopedics,13912
+672,Hip Replacement,Orthopedics,33990
+673,Arthroscopy,Orthopedics,12375
+674,Colonoscopy,Gastroenterology,23454
+675,Endoscopy,Gastroenterology,20763
+676,Chemotherapy Session,Oncology,37224
+677,Radiation Therapy,Oncology,13053
+678,Dialysis Session,Nephrology,26209
+679,Blood Transfusion,Hematology,3791
+680,Cataract Surgery,Ophthalmology,9429
+681,MRI Scan,Radiology,679
+682,CT Scan,Radiology,42000
+683,X-Ray,Radiology,48272
+684,Ultrasound,Radiology,44668
+685,Echocardiogram,Cardiology,39102
+686,Coronary Angiography,Cardiology,36531
+687,ECG,Cardiology,27901
+688,Appendectomy,General Surgery,19356
+689,Cholecystectomy,General Surgery,22916
+690,Hernia Repair,General Surgery,10005
+691,Knee Replacement,Orthopedics,10134
+692,Hip Replacement,Orthopedics,4618
+693,Arthroscopy,Orthopedics,16114
+694,Colonoscopy,Gastroenterology,38163
+695,Endoscopy,Gastroenterology,7048
+696,Chemotherapy Session,Oncology,12284
+697,Radiation Therapy,Oncology,6902
+698,Dialysis Session,Nephrology,30928
+699,Blood Transfusion,Hematology,28081
+700,Cataract Surgery,Ophthalmology,40979
+701,MRI Scan,Radiology,31380
+702,CT Scan,Radiology,24300
+703,X-Ray,Radiology,45989
+704,Ultrasound,Radiology,31873
+705,Echocardiogram,Cardiology,7474
+706,Coronary Angiography,Cardiology,14086
+707,ECG,Cardiology,16313
+708,Appendectomy,General Surgery,20862
+709,Cholecystectomy,General Surgery,786
+710,Hernia Repair,General Surgery,21558
+711,Knee Replacement,Orthopedics,12221
+712,Hip Replacement,Orthopedics,28374
+713,Arthroscopy,Orthopedics,39404
+714,Colonoscopy,Gastroenterology,28466
+715,Endoscopy,Gastroenterology,18588
+716,Chemotherapy Session,Oncology,21922
+717,Radiation Therapy,Oncology,3537
+718,Dialysis Session,Nephrology,1685
+719,Blood Transfusion,Hematology,15527
+720,Cataract Surgery,Ophthalmology,25949
+721,MRI Scan,Radiology,40321
+722,CT Scan,Radiology,21953
+723,X-Ray,Radiology,34487
+724,Ultrasound,Radiology,33282
+725,Echocardiogram,Cardiology,33797
+726,Coronary Angiography,Cardiology,9107
+727,ECG,Cardiology,29982
+728,Appendectomy,General Surgery,49741
+729,Cholecystectomy,General Surgery,31855
+730,Hernia Repair,General Surgery,46610
+731,Knee Replacement,Orthopedics,41704
+732,Hip Replacement,Orthopedics,37382
+733,Arthroscopy,Orthopedics,18711
+734,Colonoscopy,Gastroenterology,17132
+735,Endoscopy,Gastroenterology,47770
+736,Chemotherapy Session,Oncology,28132
+737,Radiation Therapy,Oncology,19015
+738,Dialysis Session,Nephrology,26099
+739,Blood Transfusion,Hematology,16799
+740,Cataract Surgery,Ophthalmology,37425
+741,MRI Scan,Radiology,26461
+742,CT Scan,Radiology,21861
+743,X-Ray,Radiology,4608
+744,Ultrasound,Radiology,24573
+745,Echocardiogram,Cardiology,43020
+746,Coronary Angiography,Cardiology,37636
+747,ECG,Cardiology,22934
+748,Appendectomy,General Surgery,21244
+749,Cholecystectomy,General Surgery,821
+750,Hernia Repair,General Surgery,38101
+751,Knee Replacement,Orthopedics,39578
+752,Hip Replacement,Orthopedics,34162
+753,Arthroscopy,Orthopedics,11711
+754,Colonoscopy,Gastroenterology,29795
+755,Endoscopy,Gastroenterology,31020
+756,Chemotherapy Session,Oncology,18829
+757,Radiation Therapy,Oncology,45826
+758,Dialysis Session,Nephrology,37560
+759,Blood Transfusion,Hematology,15913
+760,Cataract Surgery,Ophthalmology,33255
+761,MRI Scan,Radiology,5877
+762,CT Scan,Radiology,40348
+763,X-Ray,Radiology,7961
+764,Ultrasound,Radiology,19557
+765,Echocardiogram,Cardiology,44744
+766,Coronary Angiography,Cardiology,13381
+767,ECG,Cardiology,22591
+768,Appendectomy,General Surgery,1509
+769,Cholecystectomy,General Surgery,6399
+770,Hernia Repair,General Surgery,27170
+771,Knee Replacement,Orthopedics,37319
+772,Hip Replacement,Orthopedics,37991
+773,Arthroscopy,Orthopedics,38614
+774,Colonoscopy,Gastroenterology,32379
+775,Endoscopy,Gastroenterology,48328
+776,Chemotherapy Session,Oncology,34411
+777,Radiation Therapy,Oncology,39801
+778,Dialysis Session,Nephrology,15732
+779,Blood Transfusion,Hematology,16088
+780,Cataract Surgery,Ophthalmology,48347
+781,MRI Scan,Radiology,10257
+782,CT Scan,Radiology,1128
+783,X-Ray,Radiology,21673
+784,Ultrasound,Radiology,4738
+785,Echocardiogram,Cardiology,12322
+786,Coronary Angiography,Cardiology,38038
+787,ECG,Cardiology,24606
+788,Appendectomy,General Surgery,13417
+789,Cholecystectomy,General Surgery,12081
+790,Hernia Repair,General Surgery,8580
+791,Knee Replacement,Orthopedics,26058
+792,Hip Replacement,Orthopedics,17735
+793,Arthroscopy,Orthopedics,28323
+794,Colonoscopy,Gastroenterology,690
+795,Endoscopy,Gastroenterology,31090
+796,Chemotherapy Session,Oncology,29050
+797,Radiation Therapy,Oncology,46527
+798,Dialysis Session,Nephrology,22260
+799,Blood Transfusion,Hematology,12372
+800,Cataract Surgery,Ophthalmology,10509
+801,MRI Scan,Radiology,19468
+802,CT Scan,Radiology,39287
+803,X-Ray,Radiology,3821
+804,Ultrasound,Radiology,36557
+805,Echocardiogram,Cardiology,23184
+806,Coronary Angiography,Cardiology,34014
+807,ECG,Cardiology,31165
+808,Appendectomy,General Surgery,46641
+809,Cholecystectomy,General Surgery,47086
+810,Hernia Repair,General Surgery,14970
+811,Knee Replacement,Orthopedics,26104
+812,Hip Replacement,Orthopedics,14979
+813,Arthroscopy,Orthopedics,36697
+814,Colonoscopy,Gastroenterology,37953
+815,Endoscopy,Gastroenterology,14239
+816,Chemotherapy Session,Oncology,10279
+817,Radiation Therapy,Oncology,562
+818,Dialysis Session,Nephrology,47671
+819,Blood Transfusion,Hematology,2167
+820,Cataract Surgery,Ophthalmology,12269
+821,MRI Scan,Radiology,37174
+822,CT Scan,Radiology,8320
+823,X-Ray,Radiology,26178
+824,Ultrasound,Radiology,21365
+825,Echocardiogram,Cardiology,38326
+826,Coronary Angiography,Cardiology,1531
+827,ECG,Cardiology,45431
+828,Appendectomy,General Surgery,33063
+829,Cholecystectomy,General Surgery,16160
+830,Hernia Repair,General Surgery,38140
+831,Knee Replacement,Orthopedics,15221
+832,Hip Replacement,Orthopedics,18068
+833,Arthroscopy,Orthopedics,43409
+834,Colonoscopy,Gastroenterology,16335
+835,Endoscopy,Gastroenterology,39530
+836,Chemotherapy Session,Oncology,34089
+837,Radiation Therapy,Oncology,41789
+838,Dialysis Session,Nephrology,25297
+839,Blood Transfusion,Hematology,3743
+840,Cataract Surgery,Ophthalmology,23599
+841,MRI Scan,Radiology,36241
+842,CT Scan,Radiology,22299
+843,X-Ray,Radiology,31067
+844,Ultrasound,Radiology,43268
+845,Echocardiogram,Cardiology,46543
+846,Coronary Angiography,Cardiology,1019
+847,ECG,Cardiology,26383
+848,Appendectomy,General Surgery,27614
+849,Cholecystectomy,General Surgery,10075
+850,Hernia Repair,General Surgery,24507
+851,Knee Replacement,Orthopedics,45330
+852,Hip Replacement,Orthopedics,13853
+853,Arthroscopy,Orthopedics,30486
+854,Colonoscopy,Gastroenterology,13645
+855,Endoscopy,Gastroenterology,39513
+856,Chemotherapy Session,Oncology,22820
+857,Radiation Therapy,Oncology,47892
+858,Dialysis Session,Nephrology,997
+859,Blood Transfusion,Hematology,44192
+860,Cataract Surgery,Ophthalmology,22534
+861,MRI Scan,Radiology,49944
+862,CT Scan,Radiology,44409
+863,X-Ray,Radiology,14181
+864,Ultrasound,Radiology,38275
+865,Echocardiogram,Cardiology,7160
+866,Coronary Angiography,Cardiology,13769
+867,ECG,Cardiology,30514
+868,Appendectomy,General Surgery,2857
+869,Cholecystectomy,General Surgery,41928
+870,Hernia Repair,General Surgery,19817
+871,Knee Replacement,Orthopedics,14662
+872,Hip Replacement,Orthopedics,15588
+873,Arthroscopy,Orthopedics,10898
+874,Colonoscopy,Gastroenterology,4541
+875,Endoscopy,Gastroenterology,14605
+876,Chemotherapy Session,Oncology,14120
+877,Radiation Therapy,Oncology,42757
+878,Dialysis Session,Nephrology,48749
+879,Blood Transfusion,Hematology,23650
+880,Cataract Surgery,Ophthalmology,48800
+881,MRI Scan,Radiology,48504
+882,CT Scan,Radiology,11000
+883,X-Ray,Radiology,42625
+884,Ultrasound,Radiology,12580
+885,Echocardiogram,Cardiology,43090
+886,Coronary Angiography,Cardiology,43264
+887,ECG,Cardiology,28496
+888,Appendectomy,General Surgery,38782
+889,Cholecystectomy,General Surgery,45459
+890,Hernia Repair,General Surgery,38375
+891,Knee Replacement,Orthopedics,5397
+892,Hip Replacement,Orthopedics,27553
+893,Arthroscopy,Orthopedics,431
+894,Colonoscopy,Gastroenterology,23876
+895,Endoscopy,Gastroenterology,36178
+896,Chemotherapy Session,Oncology,4728
+897,Radiation Therapy,Oncology,4070
+898,Dialysis Session,Nephrology,45985
+899,Blood Transfusion,Hematology,23020
+900,Cataract Surgery,Ophthalmology,43862
+901,MRI Scan,Radiology,27262
+902,CT Scan,Radiology,18179
+903,X-Ray,Radiology,4392
+904,Ultrasound,Radiology,9550
+905,Echocardiogram,Cardiology,46913
+906,Coronary Angiography,Cardiology,23180
+907,ECG,Cardiology,14436
+908,Appendectomy,General Surgery,49037
+909,Cholecystectomy,General Surgery,37159
+910,Hernia Repair,General Surgery,22836
+911,Knee Replacement,Orthopedics,21252
+912,Hip Replacement,Orthopedics,43060
+913,Arthroscopy,Orthopedics,861
+914,Colonoscopy,Gastroenterology,28768
+915,Endoscopy,Gastroenterology,27833
+916,Chemotherapy Session,Oncology,25102
+917,Radiation Therapy,Oncology,2150
+918,Dialysis Session,Nephrology,35814
+919,Blood Transfusion,Hematology,1662
+920,Cataract Surgery,Ophthalmology,47607
+921,MRI Scan,Radiology,8538
+922,CT Scan,Radiology,37997
+923,X-Ray,Radiology,34250
+924,Ultrasound,Radiology,47376
+925,Echocardiogram,Cardiology,24354
+926,Coronary Angiography,Cardiology,19862
+927,ECG,Cardiology,38920
+928,Appendectomy,General Surgery,4291
+929,Cholecystectomy,General Surgery,31153
+930,Hernia Repair,General Surgery,6385
+931,Knee Replacement,Orthopedics,2723
+932,Hip Replacement,Orthopedics,10078
+933,Arthroscopy,Orthopedics,30628
+934,Colonoscopy,Gastroenterology,38082
+935,Endoscopy,Gastroenterology,4755
+936,Chemotherapy Session,Oncology,14600
+937,Radiation Therapy,Oncology,5336
+938,Dialysis Session,Nephrology,10986
+939,Blood Transfusion,Hematology,548
+940,Cataract Surgery,Ophthalmology,44587
+941,MRI Scan,Radiology,37260
+942,CT Scan,Radiology,44394
+943,X-Ray,Radiology,38027
+944,Ultrasound,Radiology,2312
+945,Echocardiogram,Cardiology,42549
+946,Coronary Angiography,Cardiology,32332
+947,ECG,Cardiology,21632
+948,Appendectomy,General Surgery,19203
+949,Cholecystectomy,General Surgery,20871
+950,Hernia Repair,General Surgery,14028
+951,Knee Replacement,Orthopedics,38420
+952,Hip Replacement,Orthopedics,20737
+953,Arthroscopy,Orthopedics,34855
+954,Colonoscopy,Gastroenterology,29587
+955,Endoscopy,Gastroenterology,40733
+956,Chemotherapy Session,Oncology,43513
+957,Radiation Therapy,Oncology,41690
+958,Dialysis Session,Nephrology,28017
+959,Blood Transfusion,Hematology,8440
+960,Cataract Surgery,Ophthalmology,41981
+961,MRI Scan,Radiology,7227
+962,CT Scan,Radiology,7880
+963,X-Ray,Radiology,21937
+964,Ultrasound,Radiology,14557
+965,Echocardiogram,Cardiology,29212
+966,Coronary Angiography,Cardiology,41786
+967,ECG,Cardiology,5942
+968,Appendectomy,General Surgery,17867
+969,Cholecystectomy,General Surgery,14987
+970,Hernia Repair,General Surgery,9755
+971,Knee Replacement,Orthopedics,36971
+972,Hip Replacement,Orthopedics,42604
+973,Arthroscopy,Orthopedics,34843
+974,Colonoscopy,Gastroenterology,1156
+975,Endoscopy,Gastroenterology,31368
+976,Chemotherapy Session,Oncology,34063
+977,Radiation Therapy,Oncology,10409
+978,Dialysis Session,Nephrology,18642
+979,Blood Transfusion,Hematology,800
+980,Cataract Surgery,Ophthalmology,13720
+981,MRI Scan,Radiology,31045
+982,CT Scan,Radiology,48328
+983,X-Ray,Radiology,19919
+984,Ultrasound,Radiology,28605
+985,Echocardiogram,Cardiology,122
+986,Coronary Angiography,Cardiology,44471
+987,ECG,Cardiology,25083
+988,Appendectomy,General Surgery,24461
+989,Cholecystectomy,General Surgery,6265
+990,Hernia Repair,General Surgery,40467
+991,Knee Replacement,Orthopedics,15929
+992,Hip Replacement,Orthopedics,12795
+993,Arthroscopy,Orthopedics,30665
+994,Colonoscopy,Gastroenterology,19703
+995,Endoscopy,Gastroenterology,37072
+996,Chemotherapy Session,Oncology,18089
+997,Radiation Therapy,Oncology,40256
+998,Dialysis Session,Nephrology,17653
+999,Blood Transfusion,Hematology,11297
+1000,Cataract Surgery,Ophthalmology,25999
